@@ -82,4 +82,4 @@ Estou aberto a oportunidades de estágio, mentorias e conexões com outros devs 
 
 ---
 
-<p align="center">✨ Obrigado por visitar meu perfil! Até mais e bons commits! 😄</p>
+<p align="center">Obrigado por visitar meu perfil! 😄</p>
