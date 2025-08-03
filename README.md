@@ -4,7 +4,7 @@
 <h1 align="center">Olá! Eu sou o Júlio 👋</h1>
 
 <p align="center">
-  <strong>Desenvolvedor em formação</strong>, autodidata, aprendizado contínuo e criação de soluções web que fazem a diferença. 🚀
+  <strong>Desenvolvedor em formação</strong>, 26 anos, autodidata, aprendizado contínuo e criação de soluções web que fazem a diferença. 🚀
 </p>
 
 <p align="center">
