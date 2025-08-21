@@ -76,7 +76,7 @@ Mantenho um repositório/organização dedicada ao meu processo de aprendizado, 
 Estou aberto a oportunidades de estágio, mentorias e conexões com outros devs que também estão começando!
 
 📩 **Email**: julio.henriqu3@hotmail.com  
-🔗 **LinkedIn**: [linkedin.com/in/julio-henrique-garcia](https://www.linkedin.com/in/julio-henrique-garcia)  
+🔗 **LinkedIn**: [linkedin.com/in/julio-henrique-garcia](https://www.linkedin.com/in/juliohgarcia/)  
 📸 **Instagram**: [@juliohenriqu3](https://www.instagram.com/juliohenriqu3/)  
 🐙 **GitHub**: [github.com/juliohgarcia](https://github.com/juliohgarcia)
 
