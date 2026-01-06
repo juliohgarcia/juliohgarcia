@@ -1,8 +1,6 @@
 <!-- Banner ou imagem opcional -->
 <!-- <img src="https://github.com/juliohgarcia/juliohgarcia/blob/main/banner.png" alt="Banner de boas-vindas" width="100%" /> -->
 
-<h1 align="center">Olá! Eu sou o Júlio 👋</h1>
-
 <p align="center">
   <strong>Desenvolvedor em formação</strong>, 26 anos, autodidata, aprendizado contínuo e criação de soluções web que fazem a diferença. 🚀
 </p>
