@@ -47,15 +47,6 @@
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=juliohgarcia&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliohgarcia&layout=compact&theme=tokyonight" />
-</div>
-
----
-
 ## How I study
 
 I keep a dedicated space for my learning process, where I track:
