@@ -1,83 +1,83 @@
-<!-- Banner ou imagem opcional -->
-<!-- <img src="https://github.com/juliohgarcia/juliohgarcia/blob/main/banner.png" alt="Banner de boas-vindas" width="100%" /> -->
-
 <p align="center">
-  <strong>Desenvolvedor em formação</strong>, 26 anos, autodidata, aprendizado contínuo e criação de soluções web que fazem a diferença. 🚀
+  <strong>Júlio Henrique Garcia</strong><br/>
+  Software developer in the making — building web solutions while I learn, one project at a time. 🚀
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/julio-henrique-garcia" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:julio.henriqu3@hotmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/juliohgarcia" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:julio.henriqu3@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/juliohenriqu3/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-  <img src="https://img.shields.io/static/v1?label=Status&message=Aprendendo%20Fullstack&color=blue&style=flat-square"/>
+  <img src="https://img.shields.io/static/v1?label=Focus&message=Fullstack%20Development&color=blue&style=flat-square"/>
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## About me
 
-- 🎓 Estudante autodidata e futuro graduando em **Ciência da Computação**  
-- 💡 Atualmente focado em tecnologias **Fullstack**:
-  - **Front-end**: HTML, CSS, JavaScript, TypeScript, React
-  - **Back-end**: Node.js (futuramente Express, bancos de dados relacionais e não relacionais)
-- 🐍 Futuramente irei estudar **Python** para expandir minhas habilidades em automações e back-end
-- 📚 Documentando meu aprendizado com anotações e projetos próprios
-- 📍 Baseado no Brasil • Fuso -3 GMT
-- ✨ Motivado por desafios, boas práticas e crescimento constante
+- 🎓 IT Support Analyst by day at Autentique, Computer Science student and self-taught developer by night
+- 💻 Working toward a career as a **Fullstack Developer**
+- 🌱 Currently deepening my skills in JavaScript, TypeScript, Node.js and PHP
+- 📝 I document my learning through notes, exercises and hands-on projects
+- 📍 Based in Brazil • GMT-3
+- ✨ Driven by real challenges, clean code and steady growth
 
 ---
 
-## 🚀 Tecnologias que estou aprendendo
+## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,py,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=php,js,ts,nodejs,express,html,css,postgres,git,github,vscode,linux" />
 </div>
 
-> Também estudo: CLI, lógica de programação, estrutura de pastas e boas práticas de versionamento.
+**Front-end:** HTML · CSS · JavaScript · TypeScript
+**Back-end:** Node.js · Express
+**Databases:** PostgreSQL 
+**Tools:** Git · GitHub · VS Code · Linux
 
 ---
 
-## 🧠 Meu foco atual
+## Current focus
 
-- 🔧 Consolidar a lógica de programação com JavaScript e TypeScript
-- ⚙️ Aprender e aplicar conceitos de back-end com Node.js
-- 🧱 Criar projetos práticos com HTML, CSS e JS puro
-- ✍️ Melhorar minha comunicação técnica por meio de documentação e organização de repositórios
-- 📘 Em breve: iniciar os estudos em **Python**
+- 🔧 Strengthening core programming logic with JavaScript and PHP
+- ⚙️ Building back-end APIs with Node.js and Express
+- 🗄️ Getting comfortable with relational databases (PostgreSQL)
+- 🧱 Shipping practical projects to grow a real portfolio
+- ✍️ Improving technical communication through clear documentation and well-organized repositories
+- 📘 Next up: **Laravel** and PHP fundamentals
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=juliohgarcia&show_icons=true&theme=radical" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliohgarcia&layout=compact&theme=radical" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=juliohgarcia&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliohgarcia&layout=compact&theme=tokyonight" />
 </div>
 
 ---
 
-## 📚 Organização de Estudos
+## How I study
 
-Mantenho um repositório/organização dedicada ao meu processo de aprendizado, onde registro:
+I keep a dedicated space for my learning process, where I track:
 
-- 📒 Anotações de aulas
-- 🧪 Exercícios resolvidos
-- 💡 Dicas e resumos práticos
-- 🧩 Mini-projetos evolutivos
+- 📒 Class notes
+- 🧪 Solved exercises
+- 💡 Practical tips and summaries
+- 🧩 Small, evolving projects
 
-🔗 **Acesse aqui:** [github.com/juliohgarcia](https://github.com/juliohgarcia)
-
----
-
-## 💬 Vamos conversar?
-
-Estou aberto a oportunidades de estágio, mentorias e conexões com outros devs que também estão começando!
-
-📩 **Email**: julio.henriqu3@hotmail.com  
-🔗 **LinkedIn**: [linkedin.com/in/julio-henrique-garcia](https://www.linkedin.com/in/juliohgarcia/)  
-📸 **Instagram**: [@juliohenriqu3](https://www.instagram.com/juliohenriqu3/)  
-🐙 **GitHub**: [github.com/juliohgarcia](https://github.com/juliohgarcia)
+🔗 **Check it out:** [github.com/juliohgarcia](https://github.com/juliohgarcia)
 
 ---
 
-<p align="center">Obrigado por visitar meu perfil! 😄</p>
+## Let's connect
+
+I'm open to internship opportunities, mentorship and connecting with other developers who are also on the journey.
+
+- 📩 **Email:** julio.henriqu3@hotmail.com
+- 🔗 **LinkedIn:** [linkedin.com/in/juliohgarcia](https://www.linkedin.com/in/juliohgarcia)
+- 📸 **Instagram:** [@juliohenriqu3](https://www.instagram.com/juliohenriqu3/)
+- 🐙 **GitHub:** [github.com/juliohgarcia](https://github.com/juliohgarcia)
+
+---
+
+<p align="center">Thanks for stopping by! 😄</p>
